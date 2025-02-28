@@ -7,6 +7,13 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.cqf.urpvolumetricfog": {
+      "version": "https://github.com/CristianQiu/Unity-URP-Volumetric-Light.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e4fc7bc490be5dfb2d227dfb7a4eb945f6bd6869"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.5",
       "depth": 0,
@@ -143,6 +150,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.progrids": {
+      "version": "3.0.3-preview.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.settings-manager": "1.0.2"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.render-pipelines.core": {
       "version": "17.0.3",
       "depth": 1,
@@ -195,7 +211,7 @@
     },
     "com.unity.settings-manager": {
       "version": "2.0.1",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"

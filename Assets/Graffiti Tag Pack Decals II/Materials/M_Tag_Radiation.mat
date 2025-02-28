@@ -8,12 +8,11 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: M_Tag_Radiation
-  m_Shader: {fileID: 4800000, guid: 0e9d5a909a1f7e84882a534d0d11e49f, type: 3}
+  m_Shader: {fileID: 4800000, guid: 80aa867ac363ac043847b06ad71604cd, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
-  m_InvalidKeywords:
-  - _ALPHABLEND_ON
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -26,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: f01b21769349bfd4f9967340255bacce, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -46,7 +45,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: a7989dbc81574144ca1effaa6c4c6ff4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0f8dcf27e1fd8ba46b1feaf6d5028814, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -54,7 +53,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 0f8dcf27e1fd8ba46b1feaf6d5028814, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
@@ -79,6 +78,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - Boolean_8A2B8817: 1
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -88,6 +88,7 @@ Material:
     - _Metallic: 0
     - _Mode: 2
     - _OcclusionStrength: 1
+    - _OpacityThreshold: -0.09
     - _Parallax: 0.02
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -95,10 +96,10 @@ Material:
     - _SrcBlend: 5
     - _UVSec: 0
     - _UseAoMap: 0
-    - _UseColorMap: 1
+    - _UseColorMap: 0
     - _UseEmissiveMap: 0
     - _UseMetallicMap: 0
-    - _UseNormalMap: 0
+    - _UseNormalMap: 1
     - _UseRoughnessMap: 0
     - _ZWrite: 0
     m_Colors:

@@ -66,11 +66,11 @@ Material:
     - _OcclusionStrenght: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smothness: 1
-    - _Wetness: 1.35
+    - _Smothness: 0.297
+    - _Wetness: 0.79
     - _WetnessDarknering: 1
     - _WetnessMapScale: 0.87
-    - _WetnessSteps: 32.9
+    - _WetnessSteps: 2
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}

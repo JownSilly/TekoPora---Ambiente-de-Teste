@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: M_Graffiti_1
-  m_Shader: {fileID: -6465566751694194690, guid: 9b4e681081e2b4c469111bb649e2f7ee, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: fa2f252af62ca934da12412990fb5d23, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -25,11 +25,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Base_Map:
-        m_Texture: {fileID: 2800000, guid: 5cbdcffb28a4afc4ca4308a89dd3df79, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Normal_Map:
         m_Texture: {fileID: 2800000, guid: a69db65f72a65e341853af12205ce0a8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaTexture:
+        m_Texture: {fileID: 10904, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
