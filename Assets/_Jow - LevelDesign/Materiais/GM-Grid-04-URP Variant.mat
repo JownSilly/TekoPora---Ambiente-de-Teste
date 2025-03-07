@@ -32,7 +32,7 @@ Material:
     - _Tiling: 0.25
     m_Colors:
     - _Side_Color: {r: 1, g: 0.56669796, b: 0, a: 1}
-    - _Side_Offset: {r: 0.75, g: 0, b: 0, a: 0}
+    - _Side_Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Top_Color: {r: 1, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
