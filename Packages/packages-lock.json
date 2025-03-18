@@ -14,6 +14,13 @@
       "dependencies": {},
       "hash": "e4fc7bc490be5dfb2d227dfb7a4eb945f6bd6869"
     },
+    "com.robproductions.opengraphgui": {
+      "version": "https://github.com/RobProductions/OpenGraphGUI.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0d79d1e45cfd44620576eebb1bad01e5b17a46ad"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.5",
       "depth": 0,

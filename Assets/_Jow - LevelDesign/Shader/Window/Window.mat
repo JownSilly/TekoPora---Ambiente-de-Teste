@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4237486888426147202
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Window
+  m_Shader: {fileID: -6465566751694194690, guid: f26b0df2f5097f0418b2d71f54ac6971, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _METALLICSPECGLOSSMAP
+  m_InvalidKeywords:
+  - _USE_MASK_MAP
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FrameWindo_Texture:
+        m_Texture: {fileID: 2800000, guid: adebe2eaa577ad84daf1010dea36cdbd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: b8af9ec4384c30d4e8509ac6d61fc1e0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Metallic_Map:
+        m_Texture: {fileID: 2800000, guid: de9cb57fe93121d49ab1040d31c091b7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: d77a45d1efb8fe6469d3e4955788d4d2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: de9cb57fe93121d49ab1040d31c091b7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMapping_19d4ab7141414c0fabb76e01e4f253e7_Heightmap_1_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a460ef42597640318531f85da86fe9af_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e1a713287777fb744afed1b1e31006ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2D:
+        m_Texture: {fileID: 2800000, guid: c16bd39bdf2fb2f4f8cd9db708180fae, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WindowTexture:
+        m_Texture: {fileID: 2800000, guid: 61cb8defa9ab5aa4c8949fe9e1b37d63, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Window_Texture:
+        m_Texture: {fileID: 2800000, guid: ea595b6b962725249b9103986feac914, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Base_Surface: 0
+    - _Boolean: 0
+    - _LightUp: 10
+    - _Light_Windows_Randonly: 0
+    - _METALLICSPECGLOSSMAP: 1
+    - _Metallic: 1
+    - _Metallic_1: 0
+    - _Metallic_Map_Scale: 1
+    - _NORMAL_MAP: 0
+    - _Normal_Scale: 0.6
+    - _Occlusion_Strengh: 1
+    - _Parallax_Depth: 50
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Smothness: 1
+    - _Smothness_Source: 0
+    - _Tile: 0.16
+    - _TileWindowIlusion: 0.08
+    - _TilingBase: 0.05
+    - _TilingBaseColor: 10
+    - _USE_MASK_MAP: 1
+    - _With_Map: 0
+    m_Colors:
+    - _2_MultiplicadorTiling: {r: 2, g: 2, b: 0, a: 0}
+    - _2_Tiling: {r: 6, g: 10, b: 0, a: 0}
+    - _BaseColorTint: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 1}
+    - _ColorBuild: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionWindow: {r: 29.508848, g: 8.665601, b: 0, a: 1}
+    - _EmissiveColor: {r: 1, g: 0.69696975, b: 0, a: 1}
+    - _MultiplicadorTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Tiling: {r: 1.23, g: 10, b: 0, a: 0}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
