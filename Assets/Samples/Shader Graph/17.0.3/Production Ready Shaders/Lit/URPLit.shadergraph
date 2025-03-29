@@ -2514,7 +2514,7 @@
     "m_Title": "NormalMap",
     "m_Position": {
         "x": -909.0,
-        "y": 319.0
+        "y": 319.00006103515627
     }
 }
 
@@ -3057,7 +3057,7 @@
     "m_Title": "Parallax",
     "m_Position": {
         "x": -2098.0,
-        "y": 274.0
+        "y": 274.0000305175781
     }
 }
 
@@ -4007,7 +4007,7 @@
     "m_ObjectId": "255c782fd4914ae4a7236da09086f856",
     "m_Title": "Is Metallic",
     "m_Position": {
-        "x": -201.0,
+        "x": -201.00006103515626,
         "y": -189.0
     }
 }
@@ -4663,8 +4663,8 @@
     "m_ObjectId": "30eb404d377b4ee995f488277ff0881a",
     "m_Title": "Emission",
     "m_Position": {
-        "x": -919.0,
-        "y": 920.0
+        "x": -919.0000610351563,
+        "y": 920.0000610351563
     }
 }
 
@@ -6266,8 +6266,8 @@
     "m_ObjectId": "5e93511e3b064f71b54a63214c2b625c",
     "m_Title": "Main UVs",
     "m_Position": {
-        "x": -1939.0,
-        "y": 522.0
+        "x": -1939.0001220703125,
+        "y": 522.0000610351563
     }
 }
 
@@ -6877,7 +6877,7 @@
     "m_ObjectId": "7062b1d5057b4266b6f536a6c9279cea",
     "m_Title": "Smoothness",
     "m_Position": {
-        "x": 265.0,
+        "x": 234.0,
         "y": -204.0
     }
 }
@@ -7104,8 +7104,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 290.0,
-            "y": -89.0,
+            "x": 259.0,
+            "y": -126.0,
             "width": 180.0,
             "height": 34.0
         }
@@ -7789,7 +7789,7 @@
     "m_ObjectId": "840e4948a2894ca1bd6c9e7e0d9bf623",
     "m_Title": "Metallic",
     "m_Position": {
-        "x": -868.0,
+        "x": -868.0000610351563,
         "y": -325.0
     }
 }
@@ -9613,7 +9613,7 @@
     "m_Title": "Detail Maps",
     "m_Position": {
         "x": 57.0,
-        "y": 327.0
+        "y": 327.00006103515627
     }
 }
 
@@ -9672,7 +9672,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -9726,8 +9726,8 @@
     "m_ObjectId": "b4ab1432e21d4fdcadb52c542f96596b",
     "m_Title": "Occlusion",
     "m_Position": {
-        "x": -888.0,
-        "y": 618.0
+        "x": -888.0000610351563,
+        "y": 618.0000610351563
     }
 }
 
@@ -10486,10 +10486,10 @@
         "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -373.99993896484377,
-            "y": 377.9999694824219,
-            "width": 141.00001525878907,
-            "height": 93.99996948242188
+            "x": -307.0000305175781,
+            "y": 384.0000305175781,
+            "width": 141.00003051757813,
+            "height": 94.0
         }
     },
     "m_Slots": [
@@ -11314,8 +11314,8 @@
     "m_ObjectId": "d4e1442d04854ba19c672a0dc0154e44",
     "m_Title": "Detail UVs",
     "m_Position": {
-        "x": -793.0,
-        "y": 1222.0
+        "x": -793.0000610351563,
+        "y": 1222.0001220703125
     }
 }
 
@@ -12776,8 +12776,8 @@
     "m_ObjectId": "f4abc26fcbb04c9c82fae6329be6c22b",
     "m_Title": "Specular",
     "m_Position": {
-        "x": -918.0,
-        "y": 5.0
+        "x": -918.0000610351563,
+        "y": 5.000034332275391
     }
 }
 

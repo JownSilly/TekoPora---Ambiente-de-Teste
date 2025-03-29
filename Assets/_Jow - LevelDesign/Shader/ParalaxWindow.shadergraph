@@ -2345,7 +2345,7 @@
     "m_Title": "Metallic",
     "m_Position": {
         "x": -1611.0,
-        "y": -770.0
+        "y": -769.9999389648438
     }
 }
 
@@ -3239,7 +3239,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -4362,8 +4362,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2720.00048828125,
-            "y": 1071.0,
+            "x": -2781.000244140625,
+            "y": 1063.0001220703125,
             "width": 186.0,
             "height": 34.0
         }
@@ -6359,7 +6359,7 @@
     "m_ObjectId": "bfdc988cd108432bbe7e95ca071b238c",
     "m_Title": "Smoothness",
     "m_Position": {
-        "x": -556.0,
+        "x": -556.0001220703125,
         "y": -725.0
     }
 }
@@ -6795,8 +6795,8 @@
     "m_ObjectId": "cd6cc90ffabf4fd3a911490538d7cd32",
     "m_Title": "Occlusion Map",
     "m_Position": {
-        "x": -1681.0,
-        "y": 10.999992370605469
+        "x": -1681.0001220703125,
+        "y": 10.999996185302735
     }
 }
 
@@ -6830,8 +6830,8 @@
     "m_ObjectId": "cec004b212a54d319c0a8ae04e2e7e43",
     "m_Title": "Emission Windows",
     "m_Position": {
-        "x": -1282.000244140625,
-        "y": 847.9999389648438
+        "x": -1281.9998779296875,
+        "y": 848.0000610351563
     }
 }
 
@@ -7099,8 +7099,8 @@
     "m_ObjectId": "d4a89f114096410eae0a5fcdf643f41d",
     "m_Title": "UV - Window Lighting UP",
     "m_Position": {
-        "x": -2745.00048828125,
-        "y": 816.9999389648438
+        "x": -2806.000244140625,
+        "y": 817.0000610351563
     }
 }
 
@@ -7245,7 +7245,7 @@
     "m_Title": "NormalMap",
     "m_Position": {
         "x": -1759.0,
-        "y": -410.0
+        "y": -409.9999694824219
     }
 }
 
@@ -8483,7 +8483,7 @@
         "x"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
