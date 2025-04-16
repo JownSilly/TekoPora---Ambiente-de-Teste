@@ -95,14 +95,14 @@ Material:
     m_Floats:
     - _Base_Surface: 0
     - _Boolean: 0
-    - _LightUp: 10
+    - _LightUp: 15.54
     - _Light_Windows_Randonly: 0
     - _METALLICSPECGLOSSMAP: 1
     - _Metallic: 1
     - _Metallic_1: 0
     - _Metallic_Map_Scale: 1
     - _NORMAL_MAP: 0
-    - _Normal_Scale: 0.6
+    - _Normal_Scale: 0.5
     - _Occlusion_Strengh: 1
     - _Parallax_Depth: 50
     - _QueueControl: 0
@@ -112,12 +112,12 @@ Material:
     - _Tile: 0.16
     - _TileWindowIlusion: 0.08
     - _TilingBase: 0.05
-    - _TilingBaseColor: 20
+    - _TilingBaseColor: 4.1
     - _USE_MASK_MAP: 1
     - _With_Map: 0
     m_Colors:
-    - _2_MultiplicadorTiling: {r: 0.81, g: 2, b: 0, a: 0}
-    - _2_Tiling: {r: 4, g: 10, b: 0, a: 0}
+    - _2_MultiplicadorTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _2_Tiling: {r: 2, g: 5, b: 0, a: 0}
     - _BaseColorTint: {r: 0, g: 0, b: 0, a: 1}
     - _Color: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 1}
     - _ColorBuild: {r: 1, g: 1, b: 1, a: 1}

@@ -107,7 +107,7 @@ Material:
     - _Surface: 0
     - _WaveFrequency: 0.5
     - _WaveScale: 0.025
-    - _WaveSpeed: 0.09
+    - _WaveSpeed: 1.08
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
